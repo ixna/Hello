@@ -12,5 +12,5 @@ def getTimestamp():
 def getCurrentTime():
     return ctime()
 
-def getTime()
+def getTime():
     return {"current":int(time()), "date":ctime()}
